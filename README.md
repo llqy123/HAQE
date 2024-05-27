@@ -15,7 +15,7 @@ This repository is the official implementation of ["Hierarchy-Aware Quaternion E
     torch
     numpy
 
-## 🚀 Example:
+## 🚀 Running:
     bash
     source datasets/download.sh
     python datasets/process.py
