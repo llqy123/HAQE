@@ -24,7 +24,7 @@ This repository is the official implementation of ["Hierarchy-Aware Quaternion E
     bash train_model/train_xx.sh
 
     
-## 📄 Cite:
+## 😄 Cite:
 Please cite our paper if you use the model or this code in your own work:
 
     
