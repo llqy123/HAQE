@@ -25,7 +25,7 @@ This repository is the official implementation of ["Hierarchy-Aware Quaternion E
 
     
 ## 😄 Cite:
-Please cite our paper if you use the model or this code in your own work:
+## Please cite our paper if you use the model or this code in your own work:
 
     
       
