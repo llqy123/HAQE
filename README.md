@@ -32,7 +32,7 @@ This repository is the official implementation of ["Hierarchy-Aware Quaternion E
 
 
 ## Acknowledgement
-Some of the code was forked from the original KGEmb implementation which can be found at [KGEmb](https://github.com/HazyResearch/KGEmb), thank you for the excellent source code.
+Some of the code was forked from the original KGEmb implementation which can be found at [KGEmb](https://github.com/HazyResearch/KGEmb), thank for the excellent source code.
 
 
 
