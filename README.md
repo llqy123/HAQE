@@ -9,7 +9,7 @@ Hierarchy-Aware Quaternion Embedding for Knowledge Graph Completion
     <a href="https://2024.ieeewcci.org/"><img src="https://img.shields.io/badge/IJCNN-2024-%23bd9f65?labelColor=4aaaf1&color=4aaaf1"></a>
 </p>
 
-This repository is the official implementation of ["Hierarchy-Aware Quaternion Embedding for Knowledge Graph Completion"]() accepted by IJCNN 2024.
+This repository is the official implementation of ["Hierarchy-Aware Quaternion Embedding for Knowledge Graph Completion"](https://ieeexplore.ieee.org/document/10650007) accepted by IJCNN 2024.
 
 <!-- Run Locally -->
 ### :running: Reproduce the Results
