@@ -19,7 +19,17 @@ This repository is the official implementation of ["Hierarchy-Aware Quaternion E
 ```
     
 ## Citation
-      
+        @INPROCEEDINGS{10650007,
+        author={Liang, Qiuyu and Wang, Weihua and Yu, Jie and Bao, Feilong},
+        booktitle={2024 International Joint Conference on Neural Networks (IJCNN)}, 
+        title={Hierarchy-Aware Quaternion Embedding for Knowledge Graph Completion}, 
+        year={2024},
+        volume={},
+        number={},
+        pages={1-8},
+        keywords={Analytical models;Quaternions;Neural networks;Knowledge graphs;Tail;Benchmark testing;Mathematical models;hyperbolic space;knowledge graph completion;quaternion space;rigid body transformation},
+        doi={10.1109/IJCNN60899.2024.10650007}}
+
 
 ## Acknowledgement
 Some of the code was forked from the original KGEmb implementation which can be found at [KGEmb](https://github.com/HazyResearch/KGEmb), thank you for the excellent source code.
